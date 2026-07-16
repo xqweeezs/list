@@ -28,3 +28,4 @@ massgrave.dev
 happ.su
 bloxflip.com
 activated.win
+amd.com
