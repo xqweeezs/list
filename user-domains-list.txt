@@ -25,3 +25,4 @@ microsoft.com
 tgstat.ru
 meta.me
 massgrave.dev
+happ.su
