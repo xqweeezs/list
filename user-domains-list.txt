@@ -27,3 +27,4 @@ meta.me
 massgrave.dev
 happ.su
 bloxflip.com
+activated.win
