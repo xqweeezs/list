@@ -20,3 +20,5 @@ steam-chat.com
 perplexity.ai
 github.com
 githubusercontent.com
+live.com
+microsoft.com
