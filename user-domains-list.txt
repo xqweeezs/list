@@ -29,3 +29,4 @@ happ.su
 bloxflip.com
 activated.win
 amd.com
+cfl.re
