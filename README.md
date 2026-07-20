@@ -1,1 +1,1 @@
-personal proxy lists
+personal proxying lists
