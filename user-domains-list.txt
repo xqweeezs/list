@@ -30,3 +30,4 @@ bloxflip.com
 activated.win
 amd.com
 cfl.re
+fishstrap.app
