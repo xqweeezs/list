@@ -31,3 +31,4 @@ activated.win
 amd.com
 cfl.re
 fishstrap.app
+aka.ms
